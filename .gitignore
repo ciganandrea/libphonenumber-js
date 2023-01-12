@@ -33,6 +33,7 @@ npm-debug.log
 /metadata.max.json
 /metadata.mobile.json
 /examples.mobile.json
+/metadata.custom.json
 
 # metadata.js
 /metadata.full.json.js
@@ -40,6 +41,7 @@ npm-debug.log
 /metadata.max.json.js
 /metadata.mobile.json.js
 /examples.mobile.json.js
+/metadata.custom.json.js
 
 # code coverage
 .nyc_output
