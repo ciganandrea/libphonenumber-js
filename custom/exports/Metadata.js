@@ -1,6 +1,6 @@
 // Importing from a ".js" file is a workaround for Node.js "ES Modules"
 // importing system which is even uncapable of importing "*.json" files.
-import metadata from '../../metadata.max.json.js'
+import metadata from '../../metadata.custom.json.js'
 
 import { Metadata as _Metadata } from '../../core/index.js'
 

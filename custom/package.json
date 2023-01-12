@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "libphonenumber-js/max",
+  "name": "libphonenumber-js/custom",
   "main": "index.cjs",
   "module": "index.js",
   "types": "../min/index.d.ts",
