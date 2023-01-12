@@ -53,5 +53,15 @@ export default [
       file: 'bundle/libphonenumber-js.min.js',
       sourcemap: true
     }
+  },
+  {
+    input: 'custom/index.js',
+    plugins: [json(), terser()],
+    output: {
+      format: 'umd',
+      name: 'libphonenumber',
+      file: 'bundle/libphonenumber-js.custom.js',
+      sourcemap: true,
+    }
   }
 ]
